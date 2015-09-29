@@ -1,0 +1,11 @@
+C:\projects\AdApiService\AdApiService\bin\AdApiService.dll.config
+C:\projects\AdApiService\AdApiService\bin\AdApiService.dll
+C:\projects\AdApiService\AdApiService\bin\AdApiService.pdb
+C:\projects\AdApiService\AdApiService\bin\System.Web.Http.dll
+C:\projects\AdApiService\AdApiService\bin\System.Net.Http.Formatting.dll
+C:\projects\AdApiService\AdApiService\bin\Newtonsoft.Json.dll
+C:\projects\AdApiService\AdApiService\bin\System.Web.Http.xml
+C:\projects\AdApiService\AdApiService\bin\System.Net.Http.Formatting.xml
+C:\projects\AdApiService\AdApiService\obj\Debug\AdApiService.csprojResolveAssemblyReference.cache
+C:\projects\AdApiService\AdApiService\obj\Debug\AdApiService.dll
+C:\projects\AdApiService\AdApiService\obj\Debug\AdApiService.pdb
