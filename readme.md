@@ -241,7 +241,7 @@ false if the member or group does not exist.
 ## CopyUser
 
 Copies a user account to the specified location. A random password will be assigned to the user
-and the account will be disabbled. Before the account can be used it will need to be
+and the account will be disabled. Before the account can be used it will need to be
 unlocked and have its password reset.
 
 The following attributes are copied from the template:
