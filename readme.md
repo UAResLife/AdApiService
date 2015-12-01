@@ -259,7 +259,7 @@ HttpMethod: POST
 * lastName - The surName (sn) of the new user.
 * samAccountName - The new logon name. This must be unique or this method will fail.
 * location - The distinguishedName of the OU where the new user should be created.
-* templateSamAccountName - 
+* templateSamAccountName - The SamAccountName of the user account that should be copied.
 
 ### Returns
 
